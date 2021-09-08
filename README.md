@@ -23,15 +23,25 @@ This application is a simple base project which has below features points:
 
 - Second screen has two Tab(Local & Remote).
   1. Remote Tab fetches data from network api call.
+  
+  <img  align="center" alt="Second Screen" src="scr_2.PNG" />
+  
   2. Local Tab will fetched data from local storage if have any data.
+  
+  <img  align="center" alt="Second Screen" src="scr_3.PNG" />
+  
   3. On Local tab user can do CRUD function with local data.
   4. On Item click User and Update, Delete & View details of Item.
+  
+  <img  align="center" alt="Second Screen" src="scr_4.png" />
+  
   5. On Add FAB Button user can add todo task.
-   
-  <img  align="center" alt="Second Screen" src="scr_2.PNG" />
-<img  align="center" alt="Second Screen" src="scr_3.png" />
-<img  align="center" alt="Second Screen" src="scr_4.png" />
-<img  align="center" alt="Second Screen" src="scr_5.png" />
+  
+  <img  align="center" alt="Second Screen" src="scr_5.png" /> 
+  
+  
+  
+  
 
 
 ## Libraries The App uses libraries and tools used to build Modern Android application, mainly part of Android Jetpack
