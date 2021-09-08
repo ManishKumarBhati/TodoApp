@@ -29,9 +29,9 @@ This application is a simple base project which has below features points:
   5. On Add FAB Button user can add todo task.
    
   <img  align="center" alt="Second Screen" src="scr_2.PNG" />
-<img  align="center" alt="Second Screen" src="scr_3.PNG" />
-<img  align="center" alt="Second Screen" src="scr_4.PNG" />
-<img  align="center" alt="Second Screen" src="scr_5.PNG" />
+<img  align="center" alt="Second Screen" src="scr_3.png" />
+<img  align="center" alt="Second Screen" src="scr_4.png" />
+<img  align="center" alt="Second Screen" src="scr_5.png" />
 
 
 ## Libraries The App uses libraries and tools used to build Modern Android application, mainly part of Android Jetpack
