@@ -12,7 +12,7 @@ This application is a simple base project which has below features points:
 - [Local Storage](https://docs.mongodb.com/realm/sdk/react-native/)
 - [Tab View](https://reactnavigation.org/docs/material-top-tab-navigator/)
 - [Navigation 5](https://reactnavigation.org/)
-- 
+
 ## App Overview
  The app features a two screen navigation
 
@@ -30,8 +30,6 @@ This application is a simple base project which has below features points:
    
 <!--   <img  align="center" alt="Second Screen" src="scr_2.PNG" /> -->
 
-***Navigation between the screens has been done using the Jetpack Navigation library and the following is its nav graph:***
-<img align="center" alt="Nav Graph" src="scr_3.PNG" al/>
 
 ## Libraries The App uses libraries and tools used to build Modern Android application, mainly part of Android Jetpack
 - [React Native](https://reactnative.dev/docs/getting-started)
